@@ -1,0 +1,2 @@
+enum StorageKeys{userId, userToken}
+
